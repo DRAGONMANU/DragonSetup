@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">DragonSetup</string>
+    <string name="form_house_id">House ID</string>
+    <string name="form_room_name">Room Name</string>
+    <string name="form_appliance_name">Appliance Name</string>
+    <string name="form_appliance_id">Appliance MAC</string>
+    <string name="form_appliance_power">Appliance Power Rating</string>
+    <string name="form_appliance_action">Appliance Action</string>
+    <string name="form_button">Register Board</string>
+    <string name="contact_form_post_message">Please wait! We\'re registering your device...</string>
+    <string name="contact_posted">Your device has been successfully registered.</string>
+    <string name="form_board_name">SWITCHBOARD ID</string>
+    <string name="form_add_button">Add device</string>
+    <string name="form_add">Add device</string>
+    <string name="title_activity_device">DeviceActivity</string>
+    <string name="device_prompt">Choose type of device</string>
+
+    <string-array name="device_array">
+    <item>SwitchBoard</item>
+    <item>Remote</item>
+    </string-array>
+</resources>
